@@ -1,0 +1,2 @@
+C:\xampp\htdocs\Share\
+http://189.32.162.113:8080/Share/
