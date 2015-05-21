@@ -1,0 +1,1 @@
+pequeno executável em C# que, ao receber um arquivo arrastado (ou por argumento na linha de comando) o manda para uma pasta local de um servidor web (Apache por exemplo) e coloca no seu clipboard (ctrl v) o endereço para você compartilhá-lo com seus amigos
